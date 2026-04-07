@@ -6,6 +6,8 @@ Soy Bairon Daniel, 14 años, de García, Nuevo León.
 
 ## Mis Proyectos
 ### 1. Presentación.py
+### 2. calculadora.py
+Mi segunda aplicación en Python. Suma, resta, multiplica y divide dos números. Incluye validación para división entre cero.
 Mi primer programa en Python. Usa variables y `print()` para mostrar mis datos y objetivos.
 **Tecnologías**: Python  
 **Código**: [Ver presentacion.py](./Presentación.py)

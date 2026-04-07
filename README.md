@@ -1,10 +1,23 @@
-# Portafolio de Bairon Daniel - Futuro Desarrollador
+# Portafolio de Bairon Daniel - Futuro Ingeniero de Software
 
 ## Sobre mí
-Estudiante de 14 años con el objetivo de obtener una beca en PrepaTec y posteriormente estudiar y trabajar en Estados Unidos como Ingeniero de Software.
+Soy Bairon Daniel, 14 años, de García, Nuevo León.  
+**Objetivo 2026-2027**: Obtener beca en PrepaTec y prepararme para estudiar y trabajar en Estados Unidos como desarrollador.
 
-## Objetivos 2026-2027
-- [ ] Aprender Python y JavaScript
-- [ ] Completar 5 proyectos en GitHub
-- [ ] Obtener beca para PrepaTec
-- [ ] Conseguir certificación de ingl
+## Mis Proyectos
+### 1. Presentación.py
+Mi primer programa en Python. Usa variables y `print()` para mostrar mis datos y objetivos.
+**Tecnologías**: Python  
+**Código**: [Ver presentacion.py](./Presentación.py)
+
+## Habilidades en Desarrollo
+- [x] Git y GitHub básico
+- [x] Variables en Python
+- [x] Función print()
+- [ ] Estructuras condicionales `if/else`
+- [ ] Bucles `for` y `while`
+- [ ] Funciones
+
+## Contacto
+GitHub: @bairon-dev  
+Ubicación: García, N

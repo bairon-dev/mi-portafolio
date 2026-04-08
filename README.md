@@ -1,25 +1,26 @@
-# Portafolio de Bairon Daniel - Futuro Ingeniero de Software
+# Bairon Daniel | 14 años | Futuro Ing. Software 🚀
+> García, Nuevo León → PrepaTec 2027 → Silicon Valley
 
-## Sobre mí
-Soy Bairon Daniel, 14 años, de García, Nuevo León.  
-**Objetivo 2026-2027**: Obtener beca en PrepaTec y prepararme para estudiar y trabajar en Estados Unidos como desarrollador.
+### 💻 Stack Técnico
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=android&logoColor=white)
 
-## Mis Proyectos
-### 1. Presentación.py
-### 2. calculadora.py
-Mi segunda aplicación en Python. Suma, resta, multiplica y divide dos números. Incluye validación para división entre cero.
-Mi primer programa en Python. Usa variables y `print()` para mostrar mis datos y objetivos.
-**Tecnologías**: Python  
-**Código**: [Ver presentacion.py](./Presentación.py)
+### 🛠️ Proyectos Destacados
 
-## Habilidades en Desarrollo
-- [x] Git y GitHub básico
-- [x] Variables en Python
-- [x] Función print()
-- [ ] Estructuras condicionales `if/else`
-- [ ] Bucles `for` y `while`
-- [ ] Funciones
+| Proyecto | Qué aprendí | Tech |
+| --- | --- | --- |
+| **`Presentación.py`** | Variables, `input()`, `print()` | Python |
+| **`calculadora.py`** | Condicionales, manejo de errores, `int()` | Python |
+| **`adivina_numero.py`** | Bucles `while`, librería `random`, f-strings | Python |
 
-## Contacto
-GitHub: @bairon-dev  
-Ubicación: García, N
+### 🔥 Logro Desbloqueado: Git Survivor
+Resolví por mi cuenta: error 403, conflicto de historial, autenticación con PAT, `remote set-url`, `push --force`. 
+**Aprendí Git en Android sin cursos. Solo documentación y debugging.**
+
+### 🎯 Roadmap 2026-2027
+- [x] Fundamentos Python + Git
+- [ ] HTML/CSS + GitHub Pages → bairon-dev.github.io
+- [ ] Proyecto: Bot de WhatsApp con Python
+- [ ] Aplicar a PrepaTec con este portafolio

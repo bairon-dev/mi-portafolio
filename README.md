@@ -4,15 +4,15 @@
 
 Soy prueba de que no necesitas una laptop para programar. Todo este portafolio fue creado desde Android usando Termux + Git.
 
-## 📊 Progreso: 4/20 Proyectos Completados
 
 | # | Proyecto | Descripción | Estado |
 |---|----------|-------------|--------|
-| 0 | `Presentación.py` | Mi primer programa en Python | ✅ Listo |
-| 1 | `adivina_numero.py` | Juego de adivinar número 1-100 | ✅ Listo |
-| 2 | `calculadora.py` | Calculadora con 4 operaciones + validación | ✅ Listo |
-| 4 | `lanzar_dado.py` | Simulador D20 con críticos/pifias | ✅ Listo |
-| 5-20 | ??? | En desarrollo... | ⏳ |
+| 1 | `Presentación.py` | Mi primer programa en Python | ✅ Listo |
+| 2 | `adivina_numero.py` | Juego de adivinar número 1-100 | ✅ Listo |
+| 3 | `calculadora.py` | Calculadora con 4 operaciones + validación | ✅ Listo |
+| 4 | `lanzar_dado.py` | Simulador de D20 con críticos/pifias | ✅ Listo |
+| 5 | `generador_contrasenas.py` | Crea passwords seguras custom | ✅ Listo |s
+## 📊 Progreso: 5/20 Proyectos Completados
 
 ## 💀 Logros Desbloqueados
 ✅ Aprendí Python desde cero en celular  

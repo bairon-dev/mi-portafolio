@@ -1,23 +1,30 @@
-# 🚀 BaironDev | 14 años | Futuro Ing. Software Tec
+# Portafolio Python BAIRON-DEV 🚀
+**Meta: Beca STEAM PrepaTec 2027 | 6/20 Proyectos = 30% Completado**
 
-**Meta:** PrepaTec 2027 con beca 100% + Universidad en Estados Unidos 
+## 📋 Proyectos Terminados
 
-Soy prueba de que no necesitas una laptop para programar. Todo este portafolio fue creado desde Android usando Termux + Git.
+| # | Proyecto | Skills | Status |
+|---|----------|--------|--------|
+| 1 | Calculadora básica | Python, input/output | ✅ Terminado |
+| 2 | Adivina el número | Random, loops, if/else | ✅ Terminado |
+| 3 | Conversor de unidades | Funciones, float | ✅ Terminado |
+| 4 | Generador de contraseñas | Librerías, strings | ✅ Terminado |
+| 5 | Juego de preguntas | Listas, diccionarios | ✅ Terminado |
+| 6 | Lista de tareas | Archivos .txt, try/except | ✅ Terminado |
 
+## 🎯 Skills Desbloqueados
+- Python básico e intermedio
+- Manejo de archivos `.txt` ← LO QUE USAN LOS ROBOTS
+- Git + GitHub + Commits
+- Manejo de errores con `try/except`
+- Lógica de programación
 
-| # | Proyecto | Descripción | Estado |
-|---|----------|-------------|--------|
-| 1 | `Presentación.py` | Mi primer programa en Python | ✅ Listo |
-| 2 | `adivina_numero.py` | Juego de adivinar número 1-100 | ✅ Listo |
-| 3 | `calculadora.py` | Calculadora con 4 operaciones + validación | ✅ Listo |
-| 4 | `lanzar_dado.py` | Simulador de D20 con críticos/pifias | ✅ Listo |
-| 5 | `generador_contrasenas.py` | Crea passwords seguras custom | ✅ Listo |s
-## 📊 Progreso: 5/20 Proyectos Completados
+## 🏆 Meta Agosto 2026
+**20/20 proyectos = Portafolio completo para Beca STEAM PrepaTec**
 
-## 💀 Logros Desbloqueados
-✅ Aprendí Python desde cero en celular  
-✅ Dominé Git: resolví 9 errores nivel universidad 
-✅ Merge conflicts + unrelated histories + detached HEAD 
-✅ Subí mi primer portafolio a GitHub sin PC
+**Próximo:** Proyecto 7/20 - Calculadora con historial
 
-**"Si pude con Git desde Android, puedo con PrepaTec."**
+---
+**PrepaTec dijo:** *"los proyectos te pueden servir mucho para la beca steam"* 
+**BAIRON-DEV respondió:** 6 proyectos subidos 💀🚀
+

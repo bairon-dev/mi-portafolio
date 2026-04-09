@@ -1,26 +1,23 @@
-# Bairon Daniel | 14 años | Futuro Ing. Software 🚀
-> García, Nuevo León → PrepaTec 2027 → Silicon Valley
+# 🚀 BaironDev | 14 años | Futuro Ing. Software Tec
 
-### 💻 Stack Técnico
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=android&logoColor=white)
+**Meta:** PrepaTec 2027 con beca 100% + Universidad en Estados Unidos 
 
-### 🛠️ Proyectos Destacados
+Soy prueba de que no necesitas una laptop para programar. Todo este portafolio fue creado desde Android usando Termux + Git.
 
-| Proyecto | Qué aprendí | Tech |
-| --- | --- | --- |
-| **`Presentación.py`** | Variables, `input()`, `print()` | Python |
-| **`calculadora.py`** | Condicionales, manejo de errores, `int()` | Python |
-| **`adivina_numero.py`** | Bucles `while`, librería `random`, f-strings | Python |
+## 📊 Progreso: 4/20 Proyectos Completados
 
-### 🔥 Logro Desbloqueado: Git Survivor
-Resolví por mi cuenta: error 403, conflicto de historial, autenticación con PAT, `remote set-url`, `push --force`. 
-**Aprendí Git en Android sin cursos. Solo documentación y debugging.**
+| # | Proyecto | Descripción | Estado |
+|---|----------|-------------|--------|
+| 0 | `Presentación.py` | Mi primer programa en Python | ✅ Listo |
+| 1 | `adivina_numero.py` | Juego de adivinar número 1-100 | ✅ Listo |
+| 2 | `calculadora.py` | Calculadora con 4 operaciones + validación | ✅ Listo |
+| 4 | `lanzar_dado.py` | Simulador D20 con críticos/pifias | ✅ Listo |
+| 5-20 | ??? | En desarrollo... | ⏳ |
 
-### 🎯 Roadmap 2026-2027
-- [x] Fundamentos Python + Git
-- [ ] HTML/CSS + GitHub Pages → bairon-dev.github.io
-- [ ] Proyecto: Bot de WhatsApp con Python
-- [ ] Aplicar a PrepaTec con este portafolio
+## 💀 Logros Desbloqueados
+✅ Aprendí Python desde cero en celular  
+✅ Dominé Git: resolví 9 errores nivel universidad 
+✅ Merge conflicts + unrelated histories + detached HEAD 
+✅ Subí mi primer portafolio a GitHub sin PC
+
+**"Si pude con Git desde Android, puedo con PrepaTec."**

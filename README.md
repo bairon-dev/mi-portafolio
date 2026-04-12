@@ -1,30 +1,23 @@
-# Portafolio Python BAIRON-DEV 🚀
-**Meta: Beca STEAM PrepaTec 2027 | 6/20 Proyectos = 30% Completado**
+# Mi Portafolio Prepa Tec | Meta AI 20-Day Challenge 🚀
 
-## 📋 Proyectos Terminados
+**Objetivo:** Pasar de 0 a Junior Developer en 20 días con Meta AI + Termux + GitHub.  
+**Día actual:** 8/20 | **Progreso:** 40%
 
-| # | Proyecto | Skills | Status |
-|---|----------|--------|--------|
-| 1 | Calculadora básica | Python, input/output | ✅ Terminado |
-| 2 | Adivina el número | Random, loops, if/else | ✅ Terminado |
-| 3 | Conversor de unidades | Funciones, float | ✅ Terminado |
-| 4 | Generador de contraseñas | Librerías, strings | ✅ Terminado |
-| 5 | Juego de preguntas | Listas, diccionarios | ✅ Terminado |
-| 6 | Lista de tareas | Archivos .txt, try/except | ✅ Terminado |
+## Proyectos Completados
+| # | Proyecto | Conceptos Clave | Tech |
+| --- | --- | --- | --- |
+| 1 | Tracker Promedio | Variables, Input, f-strings | Python |
+| 2 | Generador Contraseñas | Random, Bucles, Strings | Python |
+| 3 | Todo List | Listas, Funciones, While | Python |
+| 8 | Simulador GPA USA | Try/Except, Lógica, APIs mentales | Python, Git |
 
-## 🎯 Skills Desbloqueados
-- Python básico e intermedio
-- Manejo de archivos `.txt` ← LO QUE USAN LOS ROBOTS
-- Git + GitHub + Commits
-- Manejo de errores con `try/except`
-- Lógica de programación
+## Stack Usado
+**Lenguajes:** Python  
+**Herramientas:** Git, GitHub, Termux, Nano  
+**Metodología:** Meta AI Pair Programming  
 
-## 🏆 Meta Agosto 2026
-**20/20 proyectos = Portafolio completo para Beca STEAM PrepaTec**
+## Siguiente: Día 9/20
+> "El 1% de programadores usa IA como senior. Yo la uso para serlo."
 
-**Próximo:** Proyecto 7/20 - Calculadora con historial
-
----
-**PrepaTec dijo:** *"los proyectos te pueden servir mucho para la beca steam"* 
-**BAIRON-DEV respondió:** 6 proyectos subidos 💀🚀
+**Conectemos:** [@bairon-dev](https://github.com/bairon-dev)
 

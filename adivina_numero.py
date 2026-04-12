@@ -21,4 +21,7 @@ while adivinado == False:
         print("Muy alto. Intenta más bajo ⬇️")
 
 print("Gracias por jugar, cerbero 🚀")
+<<<<<<< HEAD
 
+=======
+>>>>>>> d0000a260f4640b2fb3565341cbfde9c62f297f7

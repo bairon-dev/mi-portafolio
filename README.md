@@ -1,4 +1,4 @@
-# Mi Portafolio Prepa Tec | Meta AI 20-Day Challenge 🚀
+O# Mi Portafolio Prepa Tec | Meta AI 20-Day Challenge 🚀
 
 **Objetivo:** Pasar de 0 a Junior Developer en 20 días con Meta AI + Termux + GitHub.  
 **Día actual:** 8/20 | **Progreso:** 40%

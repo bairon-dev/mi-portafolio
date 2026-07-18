@@ -16,9 +16,6 @@
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00C853?style=for-the-badge" />
 </p>
 
-# 💻 Bairon-Dev | 20 Proyectos Python en 1 Día 🚀
-
-> 0 excusas. 20 commits. 100% codeado desde Android con Termux. Si crees que necesitas laptop para ser dev, este repositorio demuestra lo contrario.
 
 <p>
   <img src="https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python&logoColor=white" />

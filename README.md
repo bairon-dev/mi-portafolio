@@ -1,7 +1,7 @@
 # 💻 Bairon-Dev | 20 Proyectos Python en 1 Día 🚀
 
 > **0 excusas. 20 commits. 100% codeado desde Android con Termux.**  
-> **Si crees que necesitas laptop para ser dev, este repo te calla la boca.**
+> **Si crees que necesitas laptop para ser dev, este repositorio demuestra lo contrario.**
 
 [![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)](https://github.com/bairon-dev/mi-portafolio)
 [![Termux](https://img.shields.io/badge/Built%20on-Termux-black?logo=android)](https://github.com/bairon-dev/mi-portafolio)

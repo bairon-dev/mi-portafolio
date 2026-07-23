@@ -68,5 +68,5 @@ Midiendo mi progreso contra el yo de hace un año, no contra nadie más.
 ---
 <p align="center">
   <img src="https://img.shields.io/badge/BAIRON_AI-v3.0-000000?style=for-the-badge" /><br>
-  <b>bairon-dev | Apodaca, NL | Hecho 100% en Termux</b>
+  <b>bairon-dev | Garcia, NL | Hecho 100% en Termux</b>
 </p>

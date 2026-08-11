@@ -4,7 +4,15 @@
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00C853?style=for-the-badge" />
 </p>
 
-# 💻 Bairon-Dev | 20 Proyectos Python en 1 Día 🚀
+# BAIRON-DEV | FUTURO ING. EN DESARROLLO DE SOFTWARE
+### GARCÍA, NL | OBJETIVO: PREPATEC -> UT AUSTIN
+
+> 0 excusas. 100% codeado desde Android con Termux.
+> 20 proyectos en 1 día. BAIRON AI v3.0 ONLINE.
+
+**STACK:** Python 3.12 | POO | APIs REST | Git & GitHub | Streamlit | Pollinations AI
+
+---
 
 > 0 excusas. 20 commits. 100% codeado desde Android con Termux. Si crees que necesitas laptop para ser dev, este repositorio demuestra lo contrario.
 

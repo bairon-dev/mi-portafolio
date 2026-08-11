@@ -1,37 +1,54 @@
-# BAIRON-DEV | FUTURO ING. EN DESARROLLO DE SOFTWARE
-### 📍 García, Nuevo León, MX | 🎯 OBJETIVO: PrepaTec -> UT Austin
+<div align="center">
 
-> **Mi filosofía:** 0 excusas. 100% codeado desde Android con Termux.
-> Si crees que necesitas una laptop gamer para ser dev, este perfil demuestra lo contrario.
+# BAIRON DEV | FUTURE SOFTWARE ENGINEER
+### PrepaTec → The University of Texas at Austin
+
+[![BAIRON AI LIVE](https://img.shields.io/badge/🚀_LIVE_PRODUCT-BAIRON%20AI%20v3.0-00FF00?style=for-the-badge)](https://bairon-ai-bcxtafbvfdrrsfg65dfom3.streamlit.app/)
+[![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/bairon-dev)
+[![Android Dev](https://img.shields.io/badge/CODED%20ON-ANDROID%20%2B%20TERMUX-black?style=for-the-badge&logo=android)](https://github.com/bairon-dev)
+[![García to Texas](https://img.shields.io/badge/FROM-GARCÍA%2C%20NL%20🇲🇽%20TO%20TEXAS%20🇺🇸-FF6B00?style=for-the-badge)](https://bairon-ai-bcxtafbvfdrrsfg65dfom3.streamlit.app/)
+
+### **"Built without excuses. Shipped from a phone."**
+
+### [🔴 CLICK HERE TO TRY MY AI - BAIRON AI v3.0 IS LIVE](https://bairon-ai-bcxtafbvfdrrsfg65dfom3.streamlit.app/)
+
+</div>
 
 ---
 
-### 🚀 PROYECTO ESTRELLA: BAIRON AI v3.0
+### 👨‍💻 ABOUT ME
 
-**[ 🔴 PROBAR BAIRON AI EN VIVO AQUÍ - Click ]** _(pon tu link de Streamlit aquí)_
+I'm **Bairon**, a Software Engineering candidate from **García, Nuevo León, Mexico.**
 
-Mi propia Inteligencia Artificial ONLINE que genera texto e imágenes.
-- **Tecnología:** Python 3.12, Streamlit, Pollinations LLM & Image API
-- **Logro:** De idea a producto desplegado en la nube, sin PC.
-- **Función única:** Generador de Homero en burbuja blanca y chat con memoria.
+My mission is clear: **PrepaTec → UT Austin → World-Class Software Engineer.**
 
-![BAIRON AI](https://img.shields.io/badge/BAIRON%20AI-v3.0%20ONLINE-brightgreen?style=for-the-badge)
+> **THE PROOF:** I don't have a gaming PC. I built and deployed a real AI product using only an Android phone with Termux. **20 projects in 24 hours.** This portfolio is the evidence.
 
-### 💻 ARSENAL TÉCNICO
+### 🚀 FLAGSHIP: BAIRON AI v3.0 - LIVE PRODUCT
 
-**Lenguajes:** Python 3.12 (POO, Listas, Diccionarios, APIs)
-**Herramientas de ING:** Git, GitHub, Termux, REST APIs, Streamlit
-**Especialidades:** Desarrollo de Software, IA Generativa, Software Seguro
+**🔗 OFFICIAL LINK: https://bairon-ai-bcxtafbvfdrrsfg65dfom3.streamlit.app/**
 
-### 📊 MI RECORD
+This is NOT a school project. It's a deployed Generative AI platform.
 
-- ✅ **20 proyectos en 1 día** - Reto personal completado
-- ✅ **4 Repositorios** en GitHub trabajados 100% desde celular
-- ✅ **Producto Real Desplegado:** BAIRON AI v3.0
-- ✅ **Proyecto de Seguridad:** Detector de Phishing con Python
+**Tech Architecture:**
+- **Language:** Python 3.12 with OOP Principles
+- **Frontend & Deploy:** Streamlit Cloud (CI/CD)
+- **AI Core:** Pollinations API - LLM for chat + Image Generation
+- **Engineering:** RESTful APIs, JSON, Git, GitHub
+- **Environment:** 100% developed on Termux (Android Linux)
 
-### 🗺️ RUTA: DE GARCÍA A TEXAS
+**Features:**
+- 🧠 Conversational AI with memory
+- 🎨 Custom Image Generation (Homero White Bubble & more)
+- ⚡ Fast, mobile-optimized deployment
 
-**Ahora:** Pulir mi stack y mi portafolio
-**2026-2027:** PrepaTec
-**Meta Final
+### 🛡️ PROJECT 2: SECURE SOFTWARE
+
+**Phishing Detector - Cybersecurity with Python**
+Built to detect malicious URLs. Shows I don't just build cool stuff, I build SAFE stuff. Essential for a real Software Engineer.
+
+### 💻 STACK - UT AUSTIN READY
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python 

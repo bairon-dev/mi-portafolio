@@ -1,80 +1,37 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/BAIRON_AI-v3.0-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HECHO_EN-MEXICO-006847?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00C853?style=for-the-badge" />
-</p>
-
 # BAIRON-DEV | FUTURO ING. EN DESARROLLO DE SOFTWARE
-### GARCÍA, NL | OBJETIVO: PREPATEC -> UT AUSTIN
+### 📍 García, Nuevo León, MX | 🎯 OBJETIVO: PrepaTec -> UT Austin
 
-> 0 excusas. 100% codeado desde Android con Termux.
-> 20 proyectos en 1 día. BAIRON AI v3.0 ONLINE.
-
-**STACK:** Python 3.12 | POO | APIs REST | Git & GitHub | Streamlit | Pollinations AI
+> **Mi filosofía:** 0 excusas. 100% codeado desde Android con Termux.
+> Si crees que necesitas una laptop gamer para ser dev, este perfil demuestra lo contrario.
 
 ---
 
-> 0 excusas. 20 commits. 100% codeado desde Android con Termux. Si crees que necesitas laptop para ser dev, este repositorio demuestra lo contrario.
+### 🚀 PROYECTO ESTRELLA: BAIRON AI v3.0
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Built_on-Termux-000000?style=for-the-badge&logo=android" />
-  <img src="https://img.shields.io/badge/Reto-100%25%20COMPLETADO-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Proyectos-20%2F20-orange?style=for-the-badge" />
-</p>
+**[ 🔴 PROBAR BAIRON AI EN VIVO AQUÍ - Click ]** _(pon tu link de Streamlit aquí)_
 
----
+Mi propia Inteligencia Artificial ONLINE que genera texto e imágenes.
+- **Tecnología:** Python 3.12, Streamlit, Pollinations LLM & Image API
+- **Logro:** De idea a producto desplegado en la nube, sin PC.
+- **Función única:** Generador de Homero en burbuja blanca y chat con memoria.
 
-### 🔥 PROYECTO ESTRELLA: BAIRON AI v3.0
+![BAIRON AI](https://img.shields.io/badge/BAIRON%20AI-v3.0%20ONLINE-brightgreen?style=for-the-badge)
 
-**Mi IA propia que ya está en producción.**
+### 💻 ARSENAL TÉCNICO
 
-No es un script más. Es una IA con chat de burbujas blancas que genera imágenes dentro del chat. La gente cree que no es Streamlit.
+**Lenguajes:** Python 3.12 (POO, Listas, Diccionarios, APIs)
+**Herramientas de ING:** Git, GitHub, Termux, REST APIs, Streamlit
+**Especialidades:** Desarrollo de Software, IA Generativa, Software Seguro
 
-**👉 Pruébala aquí:** https://bairon-ai-bcxtafbvfdrrsfg65dfom3.streamlit.app/
+### 📊 MI RECORD
 
-`Hazme una imagen de Homero Simpson` -> La genera en 2 segundos en burbuja blanca. Así de simple.
+- ✅ **20 proyectos en 1 día** - Reto personal completado
+- ✅ **4 Repositorios** en GitHub trabajados 100% desde celular
+- ✅ **Producto Real Desplegado:** BAIRON AI v3.0
+- ✅ **Proyecto de Seguridad:** Detector de Phishing con Python
 
-Este proyecto es la prueba de que ya pasé de hacer 20 scripts a hacer productos reales.
+### 🗺️ RUTA: DE GARCÍA A TEXAS
 
----
-
-### 🔥 ¿Quién es Bairon-Dev?
-
-Un dev que decidió dejar de consumir tutoriales y empezar a CREAR. Resultado: 20 proyectos funcionales subidos a GitHub en menos de 24 horas.
-
-Este repo es la prueba de que no necesitas laptop gamer para ser dev. Solo necesitas:
-
-✅ Un celular
-✅ Termux
-✅ Hambre de codear
-
-### 🛠️ Stack Demostrado en Código Real
-
-| Categoría | Tecnologías/Skills |
-| :--- | :--- |
-| **Lenguaje** | Python 3.12 - Variables, funciones, POO |
-| **Estructuras** | Listas `[]`, Diccionarios `{}`, Tuplas, Sets |
-| **Control** | `if/elif/else`, `for`, `while True`, `break` |
-| **Librerías** | `datetime`, `random`, `os`, `json`, `requests` |
-| **Archivos** | Lectura/escritura `.txt`, persistencia de datos |
-| **APIs** | Consumo de APIs REST reales con `requests` |
-| **Git** | 20+ commits, `push` desde Termux |
-| **IA** | BAIRON AI v3.0 - Pollinations LLM + Image |
-
-### 📈 Siguiente nivel
-
-Ya cumplí el reto de 20/20. Ahora estoy en:
-
-- 🏆 Concursos de programación
-- 🤖 Proyectos grandes que resuelven problemas reales (BAIRON AI es el primero)
-- 📜 Certificaciones
-- 🌎 Inglés B2
-
-Midiendo mi progreso contra el yo de hace un año, no contra nadie más.
-
----
-<p align="center">
-  <img src="https://img.shields.io/badge/BAIRON_AI-v3.0-000000?style=for-the-badge" /><br>
-  <b>bairon-dev | Garcia, NL | Hecho 100% en Termux</b>
-</p>
+**Ahora:** Pulir mi stack y mi portafolio
+**2026-2027:** PrepaTec
+**Meta Final

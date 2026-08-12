@@ -22,7 +22,7 @@ I'm **Bairon**, a Software Engineering candidate from **García, Nuevo León, Me
 
 My mission is clear: **PrepaTec → UT Austin → World-Class Software Engineer.**
 
-> **THE PROOF:** I don't have a gaming PC. I built and deployed a real AI product using only an Android phone with Termux. **20 projects in 24 hours.** This portfolio is the evidence.
+> **THE PROOF:** I don't have a gaming PC. I built and deployed a real AI product using only an Android phone with Termux. **13 projects in 24 hours.** This portfolio is the evidence.
 
 ### 🚀 FLAGSHIP: BAIRON AI v3.0 - LIVE PRODUCT
 
